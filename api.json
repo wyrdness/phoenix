@@ -1,10 +1,8 @@
 {
-  "category": "MYTHOLOGICAL_CREATURE",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/phoenix",
     "maintainers": [
       {
@@ -18,329 +16,110 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "phoenix",
     "name": "Phoenix",
-    "aliases": [
-      {
-        "name": "Bennu",
-        "language": "Egyptian",
-        "meaning": "Egyptian precursor bird"
-      },
-      {
-        "name": "Fenghuang",
-        "language": "Chinese",
-        "meaning": "Chinese phoenix (different concept)"
-      },
-      {
-        "name": "Firebird",
-        "language": "Russian/Slavic",
-        "meaning": "Slavic version"
-      }
-    ],
+    "aliases": [],
     "category": "MYTHOLOGICAL_CREATURE",
-    "subcategory": "Immortal Bird",
+    "subcategory": "Fire-associated",
     "tags": [
-      "mythological",
-      "bird",
-      "immortal",
-      "fire",
-      "resurrection",
-      "rebirth",
-      "egyptian",
-      "greek"
+      "|"
     ],
-    "status": "mythological",
+    "status": "documented",
     "description": {
-      "summary": "Immortal bird that cyclically regenerates from its own ashes, symbolizing resurrection and renewal across multiple ancient cultures.",
+      "summary": "The phoenix is a legendary immortal bird that cyclically regenerates or is reborn from its own ashes after death.",
       "full": "The phoenix is a legendary immortal bird that cyclically regenerates or is reborn from its own ashes after death. Characterized by brilliant plumage in red, gold, and purple, the phoenix is said to live for 500-1000 years. When approaching death, it builds a nest, ignites itself, burns to ashes, and is reborn from those ashes. Only one phoenix exists at any given time. The concept originated with the Egyptian Bennu bird and was adopted by Greek and Roman mythology. It became a powerful symbol of resurrection in Christianity, transformation in alchemy, and renewal across cultures."
     },
     "etymology": {
-      "origin": "From Greek 'phoinix' (φοῖνιξ) meaning 'purple-red' (the color of the bird) or 'Phoenician' (debate exists on which came first)",
-      "meaning": "Purple-red, crimson",
-      "first_use": "Ancient Greece (Herodotus, circa 450 BCE)"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "MYTHOLOGICAL_CREATURE",
-      "type": "Immortal Bird",
-      "subtype": "Fire-associated",
-      "variant": "Greek/Egyptian"
+      "type": "Fire-associated",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "bennu",
-        "name": "Bennu",
-        "relationship": "precursor",
-        "description": "Egyptian heron-like deity, original phoenix concept"
-      },
-      {
-        "id": "fenghuang",
-        "name": "Fenghuang",
-        "relationship": "cultural_equivalent",
-        "description": "Chinese phoenix, different symbolism"
-      },
-      {
-        "id": "firebird",
-        "name": "Firebird",
-        "relationship": "similar",
-        "description": "Slavic magical glowing bird"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "appearance": "Large bird with brilliant plumage in red, gold, and purple",
-      "size": "Typically described as eagle-sized or larger",
-      "coloration": [
-        "red",
-        "gold",
-        "purple",
-        "crimson",
-        "scarlet",
-        "orange (flames)"
-      ],
-      "features": [
-        {
-          "feature": "Brilliant plumage",
-          "description": "Feathers in vibrant reds, golds, and purples resembling flames",
-          "frequency": "always"
-        },
-        {
-          "feature": "Eagle-like",
-          "description": "Often depicted with eagle-like head and body",
-          "frequency": "common"
-        },
-        {
-          "feature": "Long tail feathers",
-          "description": "Flowing tail feathers of great beauty",
-          "frequency": "common"
-        },
-        {
-          "feature": "Radiant aura",
-          "description": "Glows or emanates light/warmth",
-          "frequency": "common"
-        }
-      ]
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "life_cycle": {
-      "lifespan": "500-1000 years (varies by account)",
-      "death_rebirth": [
-        "1. Phoenix ages to end of lifespan",
-        "2. Builds nest of aromatic branches (myrrh, cinnamon, frankincense)",
-        "3. Ignites nest, burns with it to ashes",
-        "4. From ashes, new phoenix arises",
-        "5. Young phoenix gathers ashes in myrrh egg",
-        "6. Carries ashes to Heliopolis (Egyptian tradition)"
-      ],
-      "population": "Only one phoenix exists at any given time"
-    },
-    "abilities": [
-      {
-        "ability": "Immortality through resurrection",
-        "description": "Dies in flames and is reborn from ashes",
-        "frequency": "cyclic",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Healing tears",
-        "description": "Tears have powerful healing properties (later tradition)",
-        "frequency": "legendary",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Immense strength",
-        "description": "Can carry enormous loads",
-        "frequency": "legendary",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Song of beauty",
-        "description": "Beautiful, enchanting song",
-        "frequency": "legendary",
-        "evidence_level": "mythological"
-      }
-    ]
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
   },
-
   "distribution": {
     "range": {
-      "description": "Mythological accounts from ancient Egypt, Greece, Rome, spreading throughout Western tradition",
-      "regions": [
-        "Ancient Egypt (Bennu bird)",
-        "Ancient Greece and Rome",
-        "Medieval Christian Europe",
-        "Global (through cultural diffusion)"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "2000 BCE",
+        "date": "Unknown",
         "circa": true,
-        "source": "Egyptian Bennu bird texts"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "Classical Antiquity",
-          "description": "Greek and Roman adoption of phoenix mythology"
-        },
-        {
-          "period": "Medieval Period",
-          "description": "Christian symbolism of resurrection"
-        }
-      ]
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Ancient Egyptian Bennu bird, associated with sun, creation, and resurrection. Adopted by Greeks and Romans from Egyptian accounts.",
-      "earliest_accounts": "Egyptian Bennu bird (circa 2000 BCE), associated with Ra and Osiris",
-      "folklore_connections": "Connected to resurrection myths, solar deities, rebirth symbolism"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "2000 BCE",
-        "event": "Egyptian Bennu bird",
-        "significance": "Sacred bird of Heliopolis, symbol of Ra and resurrection",
-        "source": "Egyptian texts"
-      },
-      {
-        "date": "450 BCE",
-        "event": "Herodotus describes phoenix",
-        "significance": "First detailed Greek account of phoenix mythology",
-        "source": "Histories, Book II"
-      },
-      {
-        "date": "1st Century CE",
-        "event": "Pliny the Elder's account",
-        "significance": "Roman natural history description of phoenix",
-        "source": "Natural History"
-      },
-      {
-        "date": "Early Christianity",
-        "event": "Christian adoption",
-        "significance": "Phoenix becomes symbol of Christ's resurrection",
-        "source": "Early Christian writings"
-      },
-      {
-        "date": "Medieval Period",
-        "event": "Bestiary inclusion",
-        "significance": "Phoenix featured in medieval bestiaries as symbol of resurrection",
-        "source": "Medieval bestiaries"
-      }
-    ],
-    "modern_era": "Phoenix remains powerful symbol of rebirth, transformation, and resilience in literature, film, and popular culture. No biological claims exist."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
   "evidence": {
-    "historical": [
-      {
-        "type": "ancient texts",
-        "name": "Classical descriptions",
-        "description": "Detailed accounts in Herodotus, Pliny, Ovid, and others",
-        "status": "mythological",
-        "analysis": "Purely symbolic creature, no historical sighting claims"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "mythological": [
-      {
-        "name": "Solar symbol",
-        "description": "Phoenix represents daily solar cycle (death at night, rebirth at dawn)",
-        "proponents": ["Mythologists"],
-        "evidence_cited": ["Association with sun gods", "Egyptian Bennu solar connection"]
-      },
-      {
-        "name": "Resurrection allegory",
-        "description": "Purely symbolic representation of death and rebirth",
-        "proponents": ["Religious scholars"],
-        "evidence_cited": ["Christian adoption", "Universal rebirth mythology"]
-      }
-    ],
-    "historical_basis": [
-      {
-        "name": "Flamingo misidentification",
-        "description": "Egyptian flamingos rising from hot salt flats inspired Bennu/phoenix",
-        "proponents": ["Ornithologists"],
-        "evidence_cited": ["Habitat overlap", "Visual similarity to burning"]
-      },
-      {
-        "name": "Symbolic origin only",
-        "description": "No zoological basis, entirely allegorical creation",
-        "proponents": ["Historians"],
-        "evidence_cited": ["No historical sighting claims", "Purely literary tradition"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
-    "symbolism": {
-      "primary": [
-        "Resurrection and immortality",
-        "Renewal and rebirth",
-        "Cycle of death and life",
-        "Transformation",
-        "Endurance through trials"
-      ],
-      "christian": "Christ's resurrection and eternal life",
-      "alchemical": "Alchemical transformation and purification",
-      "modern": "Rising from adversity, corporate rebirth"
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Harry Potter series by J.K. Rowling (Fawkes)",
-        "The Phoenix and the Carpet by E. Nesbit (1904)",
-        "Fahrenheit 451 by Ray Bradbury (symbolic)",
-        "Chronicles of Narnia by C.S. Lewis"
-      ],
-      "film_tv": [
-        "Harry Potter films (Fawkes the phoenix)",
-        "X-Men franchise (Jean Grey/Phoenix)",
-        "Fantastic Beasts films"
-      ],
-      "heraldry": [
-        "Numerous family coats of arms",
-        "Corporate logos (Phoenix Insurance, etc.)",
-        "City symbols (Atlanta, Phoenix AZ)"
-      ],
-      "other": [
-        "Phoenix, Arizona (city name)",
-        "Order of the Phoenix (Harry Potter)",
-        "Phoenix Force (Marvel Comics)"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "sources": [
-    {
-      "id": "herodotus-histories",
-      "type": "ancient text",
-      "title": "Histories, Book II",
-      "authors": ["Herodotus"],
-      "date": "circa 450 BCE"
-    },
-    {
-      "id": "pliny-natural",
-      "type": "ancient text",
-      "title": "Natural History",
-      "authors": ["Pliny the Elder"],
-      "date": "77 CE"
-    },
-    {
-      "id": "vandenbroeck-phoenix",
-      "type": "book",
-      "title": "The Phoenix: An Unnatural Biography of a Mythical Beast",
-      "authors": ["Joseph Nigg"],
-      "publication": "University of Chicago Press",
-      "date": "2016",
-      "isbn": "978-0226388526"
-    }
-  ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
